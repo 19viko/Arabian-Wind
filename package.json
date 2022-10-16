@@ -21,17 +21,29 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
+    "@iamtraction/google-translate": "github:iamtraction/google-translate",
+    "@nestjs-modules/mailer": "^1.8.1",
     "@nestjs/common": "^8.0.0",
+    "@nestjs/config": "^2.2.0",
     "@nestjs/core": "^8.0.0",
+    "@nestjs/jwt": "^8.0.1",
     "@nestjs/mapped-types": "*",
+    "@nestjs/passport": "^8.2.2",
     "@nestjs/platform-express": "^8.0.0",
     "@nestjs/typeorm": "^8.0.2",
+    "@types/nodemailer": "^6.4.6",
+    "bcrypt": "^5.0.1",
     "class-transformer": "^0.4.0",
     "class-validator": "^0.13.1",
+    "googleapis": "^104.0.0",
+    "handlebars": "^4.7.7",
+    "nodemailer": "^6.8.0",
+    "passport-local": "^1.0.0",
     "pg": "^8.7.1",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
+    "stream": "0.0.2",
     "typeorm": "^0.2.38"
   },
   "devDependencies": {
@@ -72,8 +84,5 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
-  },
-  "engines": {
-    "node": "16.13.0"
   }
 }

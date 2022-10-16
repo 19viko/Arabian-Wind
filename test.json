@@ -1,0 +1,75 @@
+{
+  "about_us": "About Us",
+  "contact_as": "Contact Us",
+  "equipment": "EQUIPMENT",
+  "new_arrivals": "NEW ARRIVALS",
+  "best_sellers": "BEST SELLERS",
+  "top_rates": "TOP RATES",
+  "follow_us": "FOLLOW US",
+  "journal": "JOURNAL",
+  "top_notes": "TOP NOTES",
+  "top_notes_description": "The most vivid and energetic, these are a perfume’s most volatile scents. They are what you smell first, establishing a fragrance’s first impression. But, as they are fleeting due to their lighter, smaller molecules, they evaporate quickly. Top notes should be carefully selected, allowing for a pleasant, smooth transition into the next part of the olfactory pyramid.",
+  "average_duration": "Average duration",
+  "average_duration_description" : "{{1}} – {{2}} minutes",
+  "middle_notes": "MIDDLE NOTES",
+  "middle_notes_description": "These are the fragrance notes you perceive once the top notes have disappeared. They ensure the continuity of the top notes and prepare for a smooth transition into the base notes. Considered the “soul”, or personality, of a perfume, heart notes make up the majority of a fragrance’s scent. As such, they are evident throughout the full life of the fragrance.",
+  "base_notes": "BASE NOTES",
+  "base_notes_description": "Along with the heart notes, base notes tend to add depth and resonance which help build the foundation of a perfume. These notes appear more gradually but also evaporate more gradually."
+}
+
+{
+  "about_us": "О нас",
+  "contact_as": "Свяжитесь с нами",
+  "equipment": "ОБОРУДОВАНИЕ",
+  "new_arrivals": "НОВЫЕ ПОСТУПЛЕНИЯ",
+  "best_sellers": "БЕСТСЕЛЛЕРЫ",
+  "top_rates": "ЛУЧШИЕ ЦЕНЫ",
+  "follow_us": "ПОДПИСЫВАЙТЕСЬ НА НАС",
+  "journal": "ЖУРНАЛ",
+  "top_notes": "НАЧАЛЬНЫЕ НОТЫ",
+  "top_notes_description": "Самые яркие и энергичные, это самые летучие ароматы парфюма. Это то, что вы чувствуете первым, создавая первое впечатление от аромата. Но поскольку они мимолетны из-за своих более легких и меньших молекул, они быстро испаряются. Верхние ноты должны быть тщательно отобраны, чтобы обеспечить приятный плавный переход к следующей части обонятельной пирамиды.",
+  "average_duration": "Средняя продолжительность",
+  "average_duration_description": "{{1}} – {{2}} минут",
+  "middle_notes": "СРЕДНИЕ НОТЫ",
+  "middle_notes_description": "Это ноты аромата, которые вы воспринимаете после того, как исчезли верхние ноты. Они обеспечивают непрерывность верхних нот и подготавливают к плавному переходу к базовым нотам. Ноты сердца, считающиеся «душой» или индивидуальностью духов, составляют большую часть аромата. Как таковые, они очевидны на протяжении всей жизни аромата.",
+  "base_notes": "ОСНОВНЫЕ ПРИМЕЧАНИЯ",
+  "base_notes_description": "Наряду с сердечными нотами базовые ноты, как правило, добавляют глубину и резонанс, которые помогают создать основу парфюма. Эти ноты появляются более постепенно, но и исчезают более постепенно."
+}
+
+{
+  "about_us": "معلومات عنا",
+  "contact_as": "اتصل بنا",
+  "equipment": "معدات",
+  "new_arrivals": "الوافدون الجدد",
+  "best_sellers": "أفضل البائعين",
+  "top_rates": "أعلى الأسعار",
+  "follow_us": "تابعنا",
+  "journal": "مجلة",
+  "top_notes": "أعلى الملاحظات",
+  "top_notes_description": "الأكثر حيوية ونشاطًا ، هذه هي الروائح الأكثر تذبذبًا في العطور. إنها ما تشمه أولاً ، مما يؤسس الانطباع الأول للعطر. ولكن نظرًا لأنها عابرة بسبب جزيئاتها الأصغر والأخف وزنًا ، فإنها تتبخر بسرعة. يجب اختيار المكونات العليا بعناية ، مما يسمح بانتقال لطيف وسلس إلى الجزء التالي من الهرم الشمي.",
+  "average_duration": "متوسطمدة",
+  "average_duration_description": "{{1}} – {{2}} دقيقة",
+  "middle_notes": "ملاحظات متوسطة",
+  "middle_notes_description": "هذه هي روائح العطر التي تراها بمجرد اختفاء المكونات العليا. إنها تضمن استمرارية النغمات العليا وتستعد للانتقال السلس إلى النوتات الأساسية. تشكل مكونات القلب ، التي تُعتبر \"روح\" أو شخصية العطر ، غالبية رائحة العطر. على هذا النحو ، فهي واضحة طوال الحياة الكاملة للعطر.",
+  "base_notes": "ملاحظات أساسية",
+  "base_notes_description": "إلى جانب مكونات القلب ، تميل المكونات الأساسية إلى إضافة العمق والرنين مما يساعد على بناء أساس العطر. تظهر هذه الملاحظات بشكل تدريجي ولكنها تتبخر أيضًا بشكل تدريجي."
+}
+
+{
+  "about_us": "Մեր մասին",
+  "contact_as": "Կապ մեզ հետ",
+  "equipment": "ՍԱՐՔԱՎՈՐՈՒՄՆԵՐ",
+  "new_arrivals": "ՆՈՐԵԿՆԵՐԸ",
+  "best_sellers": "ԼԱՎ ԾԱԽՎՈՂ",
+  "top_rates": "ԱՌԱՋԻՆ ԳՆԵՐԸ",
+  "follow_us": "ՀԵՏԵՒԵՔ ՄԵԶ",
+  "journal": "ՀԱՄԱԳՈՐԾԱԿՑՈՒԹՅՈՒՆ",
+  "top_notes": "ԳԼԽԱՎՈՐ ՆՇՈՒՄՆԵՐ",
+  "top_notes_description": "Ամենավառ և եռանդուն՝ սրանք օծանելիքի ամենաանկայուն բույրերն են: Դրանք այն են, ինչ դուք առաջին հերթին զգում եք՝ հաստատելով բուրմունքի առաջին տպավորությունը: Բայց քանի որ դրանք անցողիկ են իրենց ավելի թեթև, փոքր մոլեկուլների պատճառով, նրանք արագ գոլորշիանում են: Վերին նոտաները պետք է ուշադիր ընտրվեն՝ թույլ տալով հաճելի, սահուն անցում կատարել հոտառական բուրգի հաջորդ մաս:",
+  "average_duration": "Միջին տևողությունը",
+  "average_duration_description": "{{1}} – {{2}} րոպե",
+  "middle_notes": "ՄԻՋԻՆ ՆՇՈՒՄՆԵՐ",
+  "middle_notes_description": "Սրանք այն բուրմունքային նոտաներն են, որոնք դուք ընկալում եք վերին նոտաների անհետանալուց հետո: Նրանք ապահովում են վերին նոտաների շարունակականությունը և պատրաստվում են սահուն անցում կատարել հիմնական նոտաների: Համարվելով օծանելիքի «հոգին» կամ անհատականությունը՝ սրտի նոտաները կազմում են բույրի բույրի մեծ մասը: Որպես այդպիսին, դրանք ակնհայտ են բույրի ողջ կյանքի ընթացքում:",
+  "base_notes": "ՀԻՄՆԱԿԱՆ ՆՇՈՒՄՆԵՐ",
+  "base_notes_description": "Սրտի նոտաների հետ մեկտեղ, հիմնական նոտաները հակված են ավելացնելու խորություն և ռեզոնանս, որոնք օգնում են ստեղծել օծանելիքի հիմքը: Այս նոտաները հայտնվում են ավելի աստիճանաբար, բայց նաև ավելի աստիճանաբար գոլորշիանում են:"
+}
