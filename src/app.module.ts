@@ -19,12 +19,10 @@ import { HandlebarsAdapter } from '@nestjs-modules/mailer/dist/adapters/handleba
       imports: [ConfigModule],
       useFactory: async (config: ConfigService) => ({
         transport: {
-          host: 'smtp.gmail.com',
-          port: 465,
-          secure: true,
+          service: "Gmail",
           auth: {
-            user: 'nokia098875114@gmail.com',
-            pass: 'nokia1998nokia',
+            user: 'arabian.wind.2022@gmail.com',
+            pass: 'thvefhjkitmxbkoc',
           },
         },
         defaults: {

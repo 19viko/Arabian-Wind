@@ -1,22 +1,25 @@
 import { Injectable } from '@nestjs/common';
 import { UpdateContactUsDto } from './dto/update-contact-us.dto';
 import {MailerService} from "@nestjs-modules/mailer";
+import {CreateContactUsDto} from "./dto/create-contact-us.dto";
 
 @Injectable()
 export class ContactUsService {
   constructor(private mailerService: MailerService) {}
 
-  // async sendMail(email: string, name: string) {
-  //   console.log(email)
-  //   await this.mailerService.sendMail({
-  //     to: email,
-  //     subject: 'Greeting from NestJS NodeMailer',
-  //     template: 'email',
-  //     context: {
-  //       name: name
-  //     }
-  //   })
-  // }
+  async sendMail(body: CreateContactUsDto) {
+    const {email, name, description} = body
+    await this.mailerService.sendMail({
+      to: 'filipvirabyan12@gmail.com',
+      subject: 'Support message from 𝒶𝓇𝒶𝒷𝒾𝒶𝓃-𝓌𝒾𝓃𝒹 web site',
+      template: 'email',
+      context: {
+        name: name,
+        received_email: email,
+        description
+      }
+    })
+  }
 
   findAll() {
     return `This action returns all contactUs`;

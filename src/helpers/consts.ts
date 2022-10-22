@@ -13,7 +13,6 @@ export const JWT: { secret: string; signOptions: { expiresIn: string } } = {
 };
 
 export enum Languages {
-  "AM" = 'hy',
   "RU" = 'ru',
   "EN" = 'en',
   "AR" = 'ar'

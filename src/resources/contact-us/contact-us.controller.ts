@@ -1,16 +1,17 @@
 import {Controller, Get, Post, Body, Patch, Param, Delete} from '@nestjs/common';
 import {ContactUsService} from './contact-us.service';
 import {UpdateContactUsDto} from './dto/update-contact-us.dto';
+import {CreateContactUsDto} from "./dto/create-contact-us.dto";
 
 @Controller('contact-us')
 export class ContactUsController {
     constructor(private readonly contactUsService: ContactUsService) {
     }
 
-    // @Post('send')
-    // async sendEmail() {
-    //     return await this.contactUsService.sendMail('begkyocvontfscbjso@tmmwj.com', 'arabian wind');
-    // }
+    @Post('send')
+    async sendEmail(@Body() body: CreateContactUsDto) {
+        return await this.contactUsService.sendMail(body);
+    }
 
     @Get()
     findAll() {
